@@ -1,6 +1,6 @@
 # E-Commerce Backend Application
 
-Welcome to the E-Commerce Backend Application, a robust system that leverages MySQL2 and Sequelize to create and manage tables for an e-commerce database. Additionally, it provides an Express API for handling all CRUD operations for categories, products, and tags. With this application, users can seamlessly add, view, update, and delete data within their e-commerce platform.
+Welcome to the E-Commerce Backend Application, a system that leverages MySQL2 and Sequelize to create and manage tables for an e-commerce database. Additionally, it provides an Express API for handling all CRUD operations for categories, products, and tags. With this application, users can seamlessly add, view, update, and delete data within their e-commerce platform.
 
 ## Table of Contents
 
